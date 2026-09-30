@@ -1,1 +1,0 @@
-import{d as e,f as t}from"./index-CNzexE3i.js";var n=t(e(),1);function r(e,t){(0,n.useEffect)(()=>{document.title=e,document.querySelector(`meta[name="description"]`)?.setAttribute(`content`,t)},[e,t])}export{r as t};
