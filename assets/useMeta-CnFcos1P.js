@@ -1,1 +1,0 @@
-import{d as e,f as t}from"./index-CQ5n9Y05.js";var n=t(e(),1);function r(e,t){(0,n.useEffect)(()=>{document.title=e,document.querySelector(`meta[name="description"]`)?.setAttribute(`content`,t)},[e,t])}export{r as t};
